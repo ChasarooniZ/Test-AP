@@ -1,0 +1,8 @@
+public/packs/**/* binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.webm binary
+*.ttf binary
+*.wonderdraft_map binary
+*.dungeondraft_map text linguist-language=JSON
